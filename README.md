@@ -23,7 +23,7 @@ To install pandas library, refer the [pandas website](https://pandas.pydata.org/
 You can download the data for each cities from here.
 - [New York City](https://www.citibikenyc.com/system-data)
 - [Chicago](https://www.divvybikes.com/system-data)
-- [Washington] (https://www.capitalbikeshare.com/system-data)
+- [Washington](https://www.capitalbikeshare.com/system-data)
 
 ## Usage:
 
