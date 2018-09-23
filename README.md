@@ -33,4 +33,8 @@ You can download the data for each cities from here.
 - Run the python script `bikeshare.py` from the terminal.
 - Follow the interactive session and get the stats as per your requirement.
 
+## Reference:
 
+- https://in.udacity.com/
+- https://pandas.pydata.org/pandas-docs/stable/index.html
+- 
